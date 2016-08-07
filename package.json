@@ -1,0 +1,25 @@
+{
+  "name": "requestheader",
+  "version": "1.0.0",
+  "description": "FCC request header parser",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hollowaytape/fcc-requestheader.git"
+  },
+  "keywords": [
+    "fcc",
+    "request",
+    "header"
+  ],
+  "author": "hollowaytape",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hollowaytape/fcc-requestheader/issues"
+  },
+  "homepage": "https://github.com/hollowaytape/fcc-requestheader#readme"
+}
